@@ -1,0 +1,779 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    /*background-color: #2f2d2d;*/
+}
+
+h1, h2, h3, h4, h5, span, strong, a {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Lora', sans-serif;
+    color: #888888;
+}
+
+::selection {
+    background-color: #cc005f;
+    color: #fff;
+}
+
+/*TITLE*/
+
+.title-container {
+    background: url("../img/night-sky-4k.png") no-repeat fixed center;
+    background-size: cover;
+    height: 720px;
+    padding: 100px 0 0 0;
+}
+
+.title-container .languages-change a {
+    padding: 5px;
+}
+
+.title-container h1,
+.title-container h2,
+.title-container h3,
+.title-container a {
+    color: #fff;
+}
+
+.title-container h1 {
+    font-size: 85px;
+    font-weight: 700;
+}
+
+.title-container h2 {
+    color: #cc005f;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.title-container h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+
+.title-container .about-button-container {
+    margin-top: 180px;
+}
+
+.title-container .about-button {
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    text-transform: uppercase;
+    padding: 15px 35px 15px 35px;
+    margin-top: 20px;
+    color: #fff !important;
+    transition: all .4s;
+    font-size: 15px;
+}
+
+.title-container .about-button:hover {
+    border-color: #cc005f;
+    text-decoration: none;
+}
+
+.title-container ul {
+    margin-top: 165px;
+}
+
+.title-container ul li {
+    font-size: 25px;
+    padding: 10px;
+    transition: all .4s ease-in-out;
+}
+
+.title-container ul li:hover {
+    color: #cc005f;
+}
+
+/*ABOUT*/
+
+.about-container {
+    background-color: #fff;
+    padding: 0 0 130px 0;
+}
+
+.about-container .about-header {
+    margin: 40px 0 30px 0;
+
+}
+
+.about-container h3 {
+    color: #cc005f;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.about-container h2 {
+    font-weight: 700;
+}
+
+.about-container .profile-pic {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    margin: 30px;
+    float: right;
+}
+
+.about-container p,
+.about-container span {
+    text-align: justify;
+    font-size: 18px;
+    color: #888888;
+}
+
+.about-container .about-me p {
+    margin-left: -20px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.about-container .profile-container {
+    float: left;
+}
+
+.about-container .profile-container ul header {
+    padding: 40px 0 40px 0;
+}
+
+.about-container .profile-container ul header li strong {
+    font-size: 23px;
+    letter-spacing: 2px;
+}
+
+.about-container .profile-container ul {
+    margin-left: -20px;
+}
+
+.about-container .profile-container ul li {
+    list-style: none;
+    margin: 0 0 20px 0;
+}
+
+.about-container .profile-container ul li strong {
+    text-transform: uppercase;
+    font-size: 17px;
+    letter-spacing: 3px;
+}
+
+.about-container .profile-container span {
+    margin-left: -1px;
+    padding-right: 30px;
+}
+
+.about-container .skills-container {
+    float: left;
+    margin-bottom: 140px;
+}
+
+.about-container .skills-container ul header {
+    padding: 40px 0 40px 0;
+}
+
+.about-container .skills-container ul header li strong {
+    font-size: 23px;
+    letter-spacing: 2px;
+}
+
+.about-container .skills-container ul {
+    margin-left: -20px;
+}
+
+.about-container .skills-container ul li {
+    list-style: none;
+    margin: 0 0 20px 0;
+}
+
+.about-container .skills-container ul li strong {
+    text-transform: uppercase;
+    font-size: 17px;
+    letter-spacing: 3px;
+}
+
+.about-container .skills-container .progress-bar-container {
+    padding: 10px 0 20px 0;
+}
+
+.about-container .skills-container .progress-bar-background {
+    background-color: #888888;
+    position: absolute;
+    height: 7px;
+    width: 100%;
+}
+
+.about-container .skills-container .progress-bar-android,
+.about-container .skills-container .progress-bar-java,
+.about-container .skills-container .progress-bar-html,
+.about-container .skills-container .progress-bar-css,
+.about-container .skills-container .progress-bar-bootstrap,
+.about-container .skills-container .progress-bar-php,
+.about-container .skills-container .progress-bar-javascript,
+.about-container .skills-container .progress-bar-python,
+.about-container .skills-container .progress-bar-c,
+.about-container .skills-container .progress-bar-cplusplus,
+.about-container .skills-container .progress-bar-go,
+.about-container .skills-container .progress-bar-linux {
+    background-color: #cc005f;
+    position: absolute;
+    height: 7px;
+}
+
+.about-container .skills-container .progress-bar-android {
+    width: 81.25%;
+}
+
+.about-container .skills-container .progress-bar-java {
+    width: 87.5%;
+}
+
+.about-container .skills-container .progress-bar-html {
+    width: 93.75%;
+}
+
+.about-container .skills-container .progress-bar-css {
+    width: 92.5%;
+}
+
+.about-container .skills-container .progress-bar-bootstrap {
+    width: 68.75%;
+}
+
+.about-container .skills-container .progress-bar-php {
+    width: 75%;
+}
+
+.about-container .skills-container .progress-bar-javascript {
+    width: 50%;
+}
+
+.about-container .skills-container .progress-bar-python {
+    width: 50%;
+}
+
+.about-container .skills-container .progress-bar-c {
+    width: 95%;
+}
+
+.about-container .skills-container .progress-bar-cplusplus {
+    width: 95%;
+}
+
+.about-container .skills-container .progress-bar-go {
+    width: 18.75%;
+}
+
+.about-container .skills-container .progress-bar-linux {
+    width: 81.25%;
+}
+
+.about-container a:hover {
+    text-decoration: none;
+}
+
+.about-container .hire-me a {
+    padding: 10px 80px 10px 80px;
+    border: 3px solid #888888;
+    text-transform: uppercase;
+    color: #888888;
+    font-size: 18px;
+    letter-spacing: 2px;
+    transition: all .4s;
+}
+
+.about-container .hire-me a:hover {
+    border-color: #cc005f;
+    color: #cc005f;
+}
+
+.about-container .cv a {
+    color: #fff;
+    border: 3px solid #888888;
+    padding: 10px 45px 10px 45px;
+    background-color: #888888;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 2px;
+    transition: all .4s;
+}
+
+.about-container .cv a:hover {
+    background-color: #cc005f;
+    border-color: #cc005f;
+    color: #fff;
+}
+
+/*RESUME*/
+
+.resume-container {
+    padding: 120px 0 120px 0;
+    background-color: #ebebeb;
+
+}
+
+.resume-container .resume-header h3 {
+    color: #cc005f;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.resume-container .resume-header h1 {
+    font-weight: 700;
+}
+
+.resume-container .resume-header p {
+    color: #888888;
+    font-size: 20px;
+}
+
+.resume-container .timeline-wrap-header h4 {
+    margin: 40px;
+    color: #cc005f;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.resume-container .timeline-wrap {
+
+}
+
+.resume-container .timeline-wrap-icon::before {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 350%;
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 50%;
+    top: -15px;
+    z-index: -1;
+}
+
+.resume-container .timeline-wrap-icon {
+    height: 78px;
+    width: 78px;
+    line-height: 10px;
+    background: #000000;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px #888888;
+    text-align: center;
+    z-index: 9999;
+    color: #ffffff;
+    position: absolute;
+    left: 30%;
+    top: 10px;
+    margin-left: -2.4rem;
+}
+
+.resume-container .timeline-wrap-icon i {
+    font-size: 40px;
+    line-height: 74px;
+}
+
+.resume-container .timeline-header,
+.resume-container .timeline-occupation {
+    padding: 20px 30px 0 0;
+}
+
+.resume-container .timeline-header {
+    text-align: end;
+}
+
+.resume-container .timeline-occupation {
+    text-align: start;
+}
+
+.resume-container .timeline-header h4,
+.resume-container .timeline-occupation h4 {
+    font-weight: 700;
+}
+
+.resume-container .timeline-header p {
+    font-family: 'Lato', sans-serif;
+    line-height: 10px;
+}
+
+.resume-container .timeline-occupation p {
+    line-height: 30px;
+    font-size: 17px;
+}
+
+/*SERIVCES*/
+
+.services-container {
+    background-color: #a2004c;
+    padding: 120px 60px 120px 60px;
+}
+
+.services-container h3,
+.services-container h1,
+.services-container h4 {
+    font-family: 'Poppins', sans-serif;
+    color: #fff !important;
+}
+
+.services-container i {
+    color: #fff !important;
+}
+
+.services-container .services-header h3 {
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.services-container .services-header h1 {
+    font-weight: 700;
+}
+
+.services-container .services-header p {
+    color: #fff;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.services-container i {
+    font-size: 60px;
+    padding: 30px;
+}
+
+.services-container p {
+    color: #fff;
+    font-size: 18px;
+    padding: 0 10px 0 10px;
+    text-align: justify;
+}
+
+/*CONTACT*/
+
+.contact-container {
+    background-color: #2f2d2d;
+    padding: 170px 0 70px 0;
+}
+
+.contact-container .contact-header {
+    margin: 0 0 45px 0;
+}
+
+.contact-container .contact-header h3 {
+    color: #cc005f;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.contact-container .contact-header h1 {
+    color: #fff;
+    font-weight: 700;
+}
+
+.contact-container .contact-header p {
+    color: #eaeaea;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 0 20px 0 20px;
+}
+
+.contact-container form {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.contact-container form fieldset input,
+.contact-container form fieldset textarea {
+    width: 100%;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.2);
+    font-family: 'Poppins', sans-serif;
+    padding: 17px 25px 25px 25px;
+    background-color: transparent;
+    border-top: none;
+    outline: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.contact-container form fieldset textarea {
+    overflow: hidden;
+}
+
+.contact-container form fieldset button {
+    margin: 20px 0 0 0;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 7px 0 7px 0;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    width: 100%;
+    background-color: #cc005f;
+    border: none;
+    transition: all .4s ease-in-out;
+}
+
+.contact-container form fieldset button:hover {
+    background-color: #a2004c;
+}
+
+.contact-container .where-to-find i,
+.contact-container .email-me i,
+.contact-container .call-me i {
+    color: #fff;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.contact-container .where-to-find h5,
+.contact-container .email-me h5,
+.contact-container .call-me h5 {
+    color: #cc005f;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 16px;
+    font-weight: lighter;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-container .where-to-find .info,
+.contact-container .email-me .info,
+.contact-container .call-me .info {
+    margin: 25px 0 0 0;
+}
+
+.contact-container .where-to-find .info p,
+.contact-container .email-me .info p,
+.contact-container .call-me .info p {
+    color: #888888;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 5px;
+}
+
+/*FOOTER*/
+
+.footer-container {
+    background-color: #2f2d2d;
+}
+
+
+.footer-container p {
+    line-height: 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+
+.footer-container a {
+    color: #fff;
+    text-decoration: none;
+    transition: all .4s ease-in-out;
+}
+
+.footer-container a:hover {
+    color: #cc005f;
+}
+
+.footer-container ul {
+    float: right;
+}
+
+.footer-container ul li {
+    list-style: none;
+    padding: 0 10px 0 10px;
+    font-size: 20px;
+}
+
+/*RESPONSIVE ENGLISH VERSION*/
+
+@media only screen and (max-width: 1199px) {
+
+    .title-container .about-button-container {
+        margin-top: 160px;
+    }
+
+    .title-container ul {
+        margin-top: 180px;
+    }
+
+    .about-container .cv a {
+        padding: 10px 44px 10px 44px;
+    }
+
+    .about-container .hire-me a {
+        padding: 10px 71px 10px 71px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .title-container h1 {
+        font-size: 60px;
+    }
+
+    .title-container h2{
+        font-size: 25px;
+    }
+
+    .title-container .about-button-container {
+        margin-top: 140px;
+    }
+
+    .title-container ul {
+        margin-top: 219px;
+    }
+
+    .about-container .hire-me a {
+        padding: 10px 62px 10px 62px;
+    }
+
+    .about-container .cv a {
+        padding: 10px 23px 10px 23px;
+    }
+
+    .resume-container .timeline-header p {
+        line-height: 16px;
+    }
+    
+    .contact-container .where-to-find .info p {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .title-container h1 {
+        font-size: 47px;
+    }
+
+    .title-container h2 {
+        font-size: 21px;
+    }
+
+    .title-container .about-button-container {
+        margin-top: 195px;
+    }
+
+    .title-container ul {
+        margin-top: 122px;
+    }
+
+    .about-container .profile-pic {
+        float: none;
+    }
+
+    .about-container .profile-pic-container {
+        text-align: center;
+    }
+
+    .about-container .hire-me {
+        margin: 0 0 40px 0;
+    }
+
+    .resume-container .timeline-wrap-icon::before {
+        display: none;
+    }
+
+    .resume-container .timeline-wrap-icon {
+        display: none;
+    }
+
+    .resume-container .timeline-wrap-icon i {
+        font-size: 25px;
+    }
+
+    .resume-container .resume-header {
+
+    }
+
+    .resume-container .timeline-occupation {
+        text-align: right;
+
+    }
+    
+    .contact-container .where-to-find .info p {
+        font-size: 17px;
+    }
+
+    .footer-container p {
+        text-align: center;
+    }
+
+    .footer-container ul {
+        float: none;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .about-container {
+        margin-left: 10px;
+        padding: 0 10px 130px 10px;
+    }
+
+    .title-container h1 {
+        font-size: 41px;
+    }
+
+    .title-container h2 {
+        font-size: 20px;
+    }
+
+    .title-container ul {
+
+    }
+}
+
+@media only screen and (max-width: 530px) {
+
+    .title-container h1 {
+        font-size: 37px;
+    }
+
+    .title-container h2 {
+        font-size: 17px;
+    }
+
+    .services-container p {
+        min-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 508px) {
+    .title-container h1 {
+        line-height: 34px;
+    }
+
+    .title-container ul {
+        margin-top: 147px;
+    }
+
+}
+
+@media only screen and (max-width: 306px) {
+
+    .title-container .about-button-container {
+        margin-top: 125px;
+    }
+
+    .title-container ul {
+        margin-top: 180px;
+    }
+
+}

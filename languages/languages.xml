@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <!--WEBSITE TITLE TAG-->
+    <titleTag>
+        <en>Hi, I'm Davi</en>
+        <pt-br>Olá, Eu sou Davi Cunha</pt-br>
+    </titleTag>
+
+    <!--TITLE-->
+    <titleH1>
+        <en>I'm Davi Cunha</en>
+        <pt-br>Eu sou Davi Cunha</pt-br>
+    </titleH1>
+    <titleH2>
+        <en>Hello, World.</en>
+        <pt-br>Olá, Mundo.</pt-br>
+    </titleH2>
+    <titleH3One>
+        <en>Tech-Enthusiast</en>
+        <pt-br>Entusiasta de Tecnologia</pt-br>
+    </titleH3One>
+    <titleH3Two>
+        <en>Full Stack Developer</en>
+        <pt-br>Desenvolvedor Full Stack</pt-br>
+    </titleH3Two>
+    <titleH3Three>
+        <en>Entrepreneur</en>
+        <pt-br>Empreendedor</pt-br>
+    </titleH3Three>
+    <titleH3Four>
+        <en>Music Lover</en>
+        <pt-br>Amante de Música</pt-br>
+    </titleH3Four>
+    <titleA>
+        <en>More about me</en>
+        <pt-br>Mais sobre mim</pt-br>
+    </titleA>
+
+    <!--ABOUT-->
+    <aboutHeaderH3>
+        <en>About</en>
+        <pt-br>Sobre</pt-br>
+    </aboutHeaderH3>
+    <aboutHeaderH2>
+        <en>Let me introduce myself.</en>
+        <pt-br>Permita-me me apresentar.</pt-br>
+    </aboutHeaderH2>
+    <aboutParagraph>
+        <en>I was a brazilian kid from early 2000's. I grow up in a not that friendly hood to a kid to play at the
+            street. So, as expected, I grow up playing video games with my old friends and trying to learn something
+            about computers, that's where my passion for technology came from.
+            I started to learn programming languages at 12 and when i was 15 years old i was full capable to work as
+            little freelancer programmer, doing little jobs just for fun.
+        </en>
+        <pt-br>
+            Eu fui um criança brasileira dos anos 2000. Eu cresci numa vizinhança não muito amigável para uma criança
+            brincar na rua. Então, como esperado, eu cresci jogando video games com meu velhos amigos e tentando
+            aprender alguma coisa sobre computadores, daí que veio minha paixão por tecnologia.
+            Eu comecei a aprender linguagens de programação aos 12 anos, e aos 15 anos de idade já era completamente
+            capaz de trabalhar como um pequeno programador freelancer, fazendo trabalhos apenas por diversão.
+        </pt-br>
+    </aboutParagraph>
+
+    <!--ABOUT CONTAINER INFO STRONG-->
+    <profileContainerStrongOne>
+        <en>Profile</en>
+        <pt-br>Perfil</pt-br>
+    </profileContainerStrongOne>
+    <profileContainerStrongTwo>
+        <en>Full Name:</en>
+        <pt-br>Nome Completo:</pt-br>
+    </profileContainerStrongTwo>
+    <profileContainerStrongThree>
+        <en>Birth Date:</en>
+        <pt-br>Data de Nascimento:</pt-br>
+    </profileContainerStrongThree>
+    <profileContainerStrongFour>
+        <en>Job:</en>
+        <pt-br>Trabalho:</pt-br>
+    </profileContainerStrongFour>
+    <profileContainerStrongFive>
+        <en>Website:</en>
+        <pt-br>Website:</pt-br>
+    </profileContainerStrongFive>
+    <profileContainerStrongSix>
+        <en>E-mail:</en>
+        <pt-br>E-mail:</pt-br>
+    </profileContainerStrongSix>
+    <profileContainerStrongSeven>
+        <en>Languages:</en>
+        <pt-br>Línguas:</pt-br>
+    </profileContainerStrongSeven>
+
+    <!--ABOUT CONTAINER INFO SPAN-->
+    <profileContainerSpanOne>
+        <en>Here is a few things about me.</en>
+        <pt-br>Aqui está algumas coisas sobre mim.</pt-br>
+    </profileContainerSpanOne>
+    <profileContainerSpanTwo>
+        <en>Davi Cunha Silva</en>
+        <pt-br>Davi Cunha Silva</pt-br>
+    </profileContainerSpanTwo>
+    <profileContainerSpanThree>
+        <en>October 19, 1996</en>
+        <pt-br>19 de Outubro de 1996</pt-br>
+    </profileContainerSpanThree>
+    <profileContainerSpanFour>
+        <en>Freelancer, Website Designer, Web Developer, Back-End Developer, Front-End Developer, Video Editor</en>
+        <pt-br>Freelancer, Web Designer, Desenvolvendor Bavk-End, Desenvolvedor Front-End, Editor de Vídeo</pt-br>
+    </profileContainerSpanFour>
+    <profileContainerSpanFive>
+        <en>davicunhasilva.me</en>
+        <pt-br>davicunhasilva.me</pt-br>
+    </profileContainerSpanFive>
+    <profileContainerSpanSix>
+        <en>davipccunhasilva@hotmail.com</en>
+        <pt-br>davipccunhasilva@hotmail.com</pt-br>
+    </profileContainerSpanSix>
+    <profileContainerSpanSeven>
+        <en>English, Portuguese, Spanish</en>
+        <pt-br>Inglês, Português, Espanhol</pt-br>
+    </profileContainerSpanSeven>
+
+    <!--ABOUT CONTAINER SKILL STRONG-->
+    <profileContainerSkillsStrong>
+        <en>Skills</en>
+        <pt-br>Habilidades</pt-br>
+    </profileContainerSkillsStrong>
+
+    <!--ABOUT CONTAINER SKILL P-->
+    <profileContainerSkillsP>
+        <en>Programing languages I known.</en>
+        <pt-br>Linguagens de Programação que conheço.</pt-br>
+    </profileContainerSkillsP>
+
+    <!--ABOUT HIRE ME-->
+    <hireme>
+        <en>Hire me</en>
+        <pt-br>Me Contrate</pt-br>
+    </hireme>
+
+    <!--ABOUT DOWNLOAD CV-->
+    <downloadCV>
+        <en>Download CV</en>
+        <pt-br>Baixar Currículo</pt-br>
+    </downloadCV>
+  
+
+    <!--RESUME HEADER-->
+    <resumeHeaderH3>
+        <en>Resume</en>
+        <pt-br>Resumo</pt-br>
+    </resumeHeaderH3>
+    <resumeHeaderH1>
+        <en>More of my credentials.</en>
+        <pt-br>Mais dos meus hitóricos.</pt-br>
+    </resumeHeaderH1>
+    <resumeHeaderP>
+        <en>My education and work experiences.</en>
+        <pt-br>Minha educação e experiencia de trabalho.</pt-br>
+    </resumeHeaderP>
+
+    <!--RESUME CONTAINER WRAP HEADER-->
+    <timelineWrapHeaderH4One>
+        <en>Work Experience</en>
+        <pt-br>Experiência de Trabalho</pt-br>
+    </timelineWrapHeaderH4One>
+    <timelineWrapHeaderH4Two>
+        <en>Education</en>
+        <pt-br>Educação</pt-br>
+    </timelineWrapHeaderH4Two>
+
+    <!--RESUME CONTAINER WORK HEADER-->
+    <workH4TimelineHeaderOne>
+        <en>Freelancer</en>
+        <pt-br>Freelancer</pt-br>
+    </workH4TimelineHeaderOne>
+    <workH4TimelineHeaderTwo>
+        <en>Web Designer</en>
+        <pt-br>Web Designer</pt-br>
+    </workH4TimelineHeaderTwo>
+    <workPTimelineHeaderOne>
+        <en>June 2015 - Present</en>
+        <pt-br>Julho de 2015 - Presente</pt-br>
+    </workPTimelineHeaderOne>
+    <workPTimelineHeaderTwo>
+        <en>September 2017 - November 2017</en>
+        <pt-br>Setembro de 2017 - Novembro de 2017</pt-br>
+    </workPTimelineHeaderTwo>
+
+    <!--RESUME CONTAINER WORK OCCUPATION-->
+    <workH4TimelineOccupationOne>
+        <en>Resource Manager Application Developer</en>
+        <pt-br>Desenvolvedor de Aplicação de Gerenciamento de Recursos</pt-br>
+    </workH4TimelineOccupationOne>
+    <workH4TimelineOccupationTwo>
+        <en>Nerit</en>
+        <pt-br>Nerit</pt-br>
+    </workH4TimelineOccupationTwo>
+    <workPTimelineOccupationOne>
+        <en>Since I learned how to program when I was 12 years old I have got some jobs as freelancer from
+            simple landing pages for some websites to whole resource manager systems for little
+            companies.
+        </en>
+        <pt-br>
+            Desde que quando eu aprendi a programar quando tinha 12 anos, fiz alguns trabalhos como freelancer, de
+            simples landing pages para alguns sites até aplicações de gerenciamento de recursos para pequenas empresas.
+        </pt-br>
+    </workPTimelineOccupationOne>
+    <workPTimelineOccupationTwo>
+        <en>I got hired as a intern at Nerit (a brazilian software company). I worked as web designer as
+            well as infrastructure support.
+        </en>
+        <pt-br>
+            Fui contratado como estagiário na Nerit (uma empresa de software brasileira). Trabalhei como web designer,
+            bem como suporte de infraestrutura.
+        </pt-br>
+    </workPTimelineOccupationTwo>
+
+    <!--RESUME CONTAINER EDUCATION HEADER-->
+    <educationH4TimelineHeaderOne>
+        <en>Computer Science Bachelor</en>
+        <pt-br>Bacharelado de Ciência da Computação</pt-br>
+    </educationH4TimelineHeaderOne>
+    <educationH4TimelineHeaderTwo>
+        <en>Computer Engineering Bachelor</en>
+        <pt-br>Bacharelado de Engenharia de Computação</pt-br>
+    </educationH4TimelineHeaderTwo>
+    <educationH4TimelineHeaderThree>
+        <en>High School</en>
+        <pt-br>Ensino Médio</pt-br>
+    </educationH4TimelineHeaderThree>
+    <educationPTimelineHeaderOne>
+        <en>January 2018 - Present</en>
+        <pt-br>Janeiro de 2018 - Presente</pt-br>
+    </educationPTimelineHeaderOne>
+    <educationPTimelineHeaderTwo>
+        <en>January 2016 - December 2017</en>
+        <pt-br>Janeiro de 2016 - Dezembro de 2017</pt-br>
+    </educationPTimelineHeaderTwo>
+    <educationPTimelineHeaderThree>
+        <en>January 2013 - December 2015</en>
+        <pt-br>Janeiro 2013 - Dezembro de 2015</pt-br>
+    </educationPTimelineHeaderThree>
+
+    <!--RESUME CONTAINER EDUCATION OCCUPATION-->
+    <educationH4TimelineOccupationOne>
+        <en>PUC Minas</en>
+        <pt-br>PUC Minas</pt-br>
+    </educationH4TimelineOccupationOne>
+    <educationH4TimelineOccupationTwo>
+        <en>FUMEC</en>
+        <pt-br>FUMEC</pt-br>
+    </educationH4TimelineOccupationTwo>
+    <educationH4TimelineOccupationThree>
+        <en>Edna Roriz High School</en>
+        <pt-br>Colégio Edna Roriz</pt-br>
+    </educationH4TimelineOccupationThree>
+    <educationPTimelineOccupationOne>
+        <en>Moved to Computer Science, I'm still doing this course at the moment, planning to finish it at 2021.</en>
+        <pt-br>
+            Mudei para Ciência da Computação, ainda estou cursando curso no momento, planejando termilá-lo em 2021.
+        </pt-br>
+    </educationPTimelineOccupationOne>
+    <educationPTimelineOccupationTwo>
+        <en>
+            I started Computer Engineering course at FUMEC, which is more focused on hardware, at 2016. But
+            I changed to Computer Science because I got more interested on software development than
+            hardware development over time. Another factor that made me decide to move to Computer
+            Science is due fact that I started my own company and we needed a computer scientist as CTO
+            (me).
+        </en>
+        <pt-br>
+            Iniciei o curso de Engenharia da Computação na FUMEC, no qual é mais focado em hardware, em 2016. Mas mudei
+            para Ciência da Computação pois adquiri mais interesse por desenvolvimento de software ao longo do tempo.
+            Outro fator que me fez decidir ir para Ciência da Computação foi graças ao fato que iniciei minha própria
+            empresa e precisavamos de um cientista computacional como CTO (eu).
+        </pt-br>
+    </educationPTimelineOccupationTwo>
+    <educationPTimelineOccupationThree>
+        <en>
+            I studied from the 10th to 12th grade at Edna Roriz High School, a brazilian international
+            school. Through my whole time there I had the opportunity to meet people from all over the
+            world from different cultures and backgrounds.
+        </en>
+        <pt-br>
+            Estudei do 1º ano ao 3º ano no Colégio Edna Roriz, uma escola brasileira internacional. Durante todo meu
+            tempo lá, tive oportunidade de conhecer pessoas de todo o mundo de diferentes culturas e contextos.
+        </pt-br>
+    </educationPTimelineOccupationThree>
+
+    <!--SERVICE HEADER-->
+    <serviceHeaderH3>
+        <en>Services</en>
+        <pt-br>Serviços</pt-br>
+    </serviceHeaderH3>
+    <serviceHeaderH1>
+        <en>What Can I Do For You?</en>
+        <pt-br>O Que Posso Fazer Para Você?</pt-br>
+    </serviceHeaderH1>
+    <serviceHeaderP>
+        <en>Here's a few things I can do for you or your company.</en>
+        <pt-br>Aqui esão algumas coisas que posso fazer para sua empresa.</pt-br>
+    </serviceHeaderP>
+
+    <!--SERVICE CONTAINER-->
+    <h4ServiceOne>
+        <en>Android Development</en>
+        <pt-br>Desenvolvimento Android</pt-br>
+    </h4ServiceOne>
+    <h4ServiceTwo>
+        <en>Web Development</en>
+        <pt-br>Desenvolvimento Web</pt-br>
+    </h4ServiceTwo>
+    <h4ServiceThree>
+        <en>Linux Administration</en>
+        <pt-br>Administrador Linux</pt-br>
+    </h4ServiceThree>
+    <pServiceOne>
+        <en>
+            I've been working on android apps for about a year, doing some business apps. Most apps I've made are for
+            productivity for small corporations. Maybe I can be useful for you needs.
+        </en>
+        <pt-br>
+            Venho trabalhando em aplicativos android em torno de um ano, criando alguns aplicativos de empresas. A
+            maioria dos aplicativos que fiz são para produtividade para pequenas corporações. Talvez eu possa ser útil
+            para suas necessidade.
+        </pt-br>
+    </pServiceOne>
+    <pServiceTwo>
+        <en>
+            I can develop responsive websites based on open source frameworks like BootStrap, Materialize-css,
+            Parallax.js in HTML5, CSS3, JavaScript. If you prefer I can also develop dynamic blogs using cms like
+            WordPress, Blogger or even create a cms from scratch for you to do it yourself.I can also help
+            with its hosting and DNS configurations.
+        </en>
+        <pt-br>
+            Eu posso desenvolver websites responsivos baseados em frameworks como BootStrap, Materialize-css,
+            Parallax.js in HTML5, CSS3, JavaScript. Se preferir também posso desenvolver blogs dinâmicos usando cms como
+            WordPress, Blogger ou ainda criar um cms do zero para você mesmo criar o seus próprios websites. Também
+            ajudo no hosting e configurações de DNS.
+        </pt-br>
+    </pServiceTwo>
+    <pServiceThree>
+        <en>
+            I have been using Linux for at least 3 years as my primary OS and I know quite a lot in terms of Linux
+            administration. I have used almost all the popular linux distros including Arch, Debian, Fedora, Tails etc.
+            I am capable of doing advance configurations using scripts and cli. Also capable to create bots to automate
+            processes.
+        </en>
+        <pt-br>
+            Venho utilizando Linux a 3 anos como meu SO primário e sei bastante em termo de administração Linux. Já
+            quase todas as distribuições linux incluindo Arch, Debian, Fedora, Ubuntu, Tails, Kali etc. Sou capaz de
+            fazer configurações avançadas usando script e cli. Também capacitado para criar bots para automatizar
+            processos.
+        </pt-br>
+    </pServiceThree>
+
+    <!--CONTACT-->
+    <contactHeaderH3>
+        <en>Contact me</en>
+        <pt-br>Contate-me</pt-br>
+    </contactHeaderH3>
+    <contactHeaderH1>
+        <en>I would like hear from you.</en>
+        <pt-br>Eu adoraria ouvir de você</pt-br>
+    </contactHeaderH1>
+    <contactHeaderP>
+        <en>
+            You can contact me via social medias listed above, phone or even e-mail. Feel free to contact me. I'll get
+            back to you as soon as possible.
+        </en>
+        <pt-br>
+            Entre em contato por meio das mídias socias listadas acima, por telefone ou ainda e-mail. Sinta-se a vontade
+            para me contatar, responderei mais breve possível.
+        </pt-br>
+    </contactHeaderP>
+
+
+    <!--CONTACT FORM PLACEHOLDER-->
+    <contactFormNamePlaceholder>
+        <en>Name</en>
+        <pt-br>Nome</pt-br>
+    </contactFormNamePlaceholder>
+    <contactFormEmailPlaceholder>
+        <en>E-mail</en>
+        <pt-br>E-mail</pt-br>
+    </contactFormEmailPlaceholder>
+    <contactFormSubjectPlaceholder>
+        <en>Subject</en>
+        <pt-br>Assunto</pt-br>
+    </contactFormSubjectPlaceholder>
+    <contactFormMessagePlaceholder>
+        <en>Message</en>
+        <pt-br>Mensagem</pt-br>
+    </contactFormMessagePlaceholder>
+    <contactFormSubmit>
+        <en>Submit</en>
+        <pt-br>Enviar</pt-br>
+    </contactFormSubmit>
+
+    <!--CONTACT WHERE TO FIND ME-->
+    <contactWhereToFindMe>
+        <en>Where to find me</en>
+        <pt-br>Onde me achar</pt-br>
+    </contactWhereToFindMe>
+
+    <!--CONTACT WHERE TO FIND ME BRAZIL-->
+    <contactWhereToFindMeBrazil>
+        <en>Brazil</en>
+        <pt-br>Brasil</pt-br>
+    </contactWhereToFindMeBrazil>
+
+    <!--CONTACT EMAIL ME-->
+    <contactEmailMe>
+        <en>Email me</en>
+        <pt-br>Me envie um e-mail</pt-br>
+    </contactEmailMe>
+
+    <!--CONTACT CALL ME-->
+    <contactCallMe>
+        <en>Call me</en>
+        <pt-br>Me ligue</pt-br>
+    </contactCallMe>
+
+    <!--FOOTER DESIGN BY-->
+    <designedBy>
+        <en>Designed by</en>
+        <pt-br>Criado por</pt-br>
+    </designedBy>
+
+</root>
